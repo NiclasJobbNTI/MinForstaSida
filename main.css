@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(167, 181, 115);
+    width: 40%;
+    margin: auto;
+}
+
+p{
+    color:black;
+  }
+  h1{
+    color:gold;
+    font-size: 58px;
+  }
+  
+  img {
+    display: block;
+    margin-top: 30px;
+    width: 190px;
+  
+  }
+  
+  button {
+    cursor: pointer;
+    display: block;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 800;
+    padding: 20px;
+    padding-right: 22px;
+    font-style: oblique;
+    background-color: rgba(128, 0, 128, 0.521);
+    color: white;
+    border-radius: 50%;
+    border: 2px solid rgb(244, 244, 244);
+  }
